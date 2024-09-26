@@ -1,0 +1,500 @@
+  121  cd -
+  122  cd -
+  123  pwd
+  124  ll
+  125  vim a.txt 
+  126  ll
+  127  cat a.txt 
+  128  cat a1.txt 
+  129  cat a.txt a1.txt 
+  130  cat System\ tools\ and\ GIT\ version\ control\ system.pdf 
+  131  ll
+  132  cat a.txt 
+  133  cat a.txt > vypis_a.txt
+  134  ll
+  135  cat vypis_a.txt 
+  136  ll > file_list
+  137  ll
+  138  cat file_list 
+  139  ls -R > list_r
+  140  cat list_r 
+  141  more list_r 
+  142  less list_r 
+  143  ls -laR | less
+  144  ls -laR | less
+  145  ls -laR | less
+  146  ll
+  147  cat a.txt a1.txt 
+  148  cat a.txt a1.txt > a_files.txt
+  149  cat a_files.txt 
+  150  touch a.txt 
+  151  ll
+  152  cp a.txt copy_a.txt
+  153  ll
+  154  cat a.txt copy_a.txt 
+  155  cp a.txt ./dir1/subdir1
+  156  ll ./dir1/subdir1
+  157  cp a.txt ./dir1/subdir2/copy_a.txt
+  158  ll ./dir1/subdir2/
+  159  cp *.txt ./dir1/subdir3/
+  160  ll ./dir1/subdir3
+  161  ll
+  162  mv a.txt d.txt
+  163  ll
+  164  rm d.txt 
+  165  ll
+  166  rm ./dir1/subdir1
+  167  rm -r ./dir1/subdir1
+  168  ll dir1
+  169  mkdir ./dir1/subdir1
+  170  ll dir1
+  171  ll
+  172  vim a_files.txt 
+  173  vim dir_list 
+  174  vim dir_list 
+  175  vim dir_list 
+  176  vim dir_list 
+  177  vim dir_list 
+  178  vim dir_list 
+  179  vim dir_list 
+  180  history -a
+  181  dir
+  182  ls
+  183  ls -la
+  184  git config --global user.name "Petr Gregor"
+  185  git config --global user.email "petr.gregor@email.cz"
+  186  git config
+  187  git config --get user.name
+  188  git config --get user.email
+  189  cd Dropbox/work/sdacademy/DataScienceCZ3/02_System_tools_and_GIT_version_control_system/
+  190  ls
+  191  mkdir project1
+  192  ll
+  193  cd project1/
+  194  ll
+  195  vim file1.txt
+  196  cat file1.txt 
+  197  rm file1.txt 
+  198  ll
+  199  git init
+  200  ls
+  201  ll
+  202  ll .get
+  203  ll .git
+  204  ll
+  205  git commit .
+  206  git commit 
+  207  cp file1.txt file2.txt
+  208  cp file1.txt file3.txt
+  209  ll
+  210  git add *.txt
+  211  git commit
+  212  git status
+  213  vim file2.txt 
+  214  cat file*
+  215  cat file1.txt 
+  216  git status
+  217  git commit
+  218  git commit -a
+  219  git status
+  220  git status
+  221  git add file3.txt 
+  222  git status
+  223  git reset 
+  224  git status
+  225  git add file3.txt 
+  226  git commit
+  227  git checkout
+  228  git status
+  229  git status file3.txt 
+  230  git checkout file3.txt
+  231  git rm file3.txt 
+  232  git status
+  233  git log
+  234  git log --patch
+  235  git log --stat
+  236  git log --patch
+  237  git log --stat
+  238  git log --oneline
+  239  git log --oneline --stat
+  240  git log
+  241  git log --oneline
+  242  git revert
+  243  git log --oneline
+  244  git revert 56f842d
+  245  ls
+  246  cat
+  247  ls
+  248  pwd
+  249  ls
+  250  ls LICENSE.txt 
+  251  ls LICENSE.txt 
+  252  ls git-bash.exe 
+  253  ls git-bash.exe git-cmd.exe LICENSE.txt 
+  254  ls *.exe
+  255  ls *.txt
+  256  ls u*
+  257  ls git*
+  258  ls
+  259  ls git*.exe
+  260  ls
+  261  ls -l
+  262  chmod
+  263  chmod --help
+  264  chmod 777 LICENSE.txt 
+  265  chmod 777 git-cmd.exe 
+  266  chmod u +r LICENSE.txt 
+  267  chmod u+r LICENSE.txt 
+  268  ls -
+  269  ls -l
+  270  ls -a
+  271  ls
+  272  ls -a
+  273  ls bin/
+  274  ls dev/
+  275  ls ../
+  276  ls ..
+  277  cd 
+  278  ls
+  279  cd Dropbox/work/sdacademy
+  280  mkdir DataScienceCZ7
+  281  ls
+  282  cd DataScienceCZ7
+  283  ls
+  284  ls ../
+  285  ls -a
+  286  ls ./
+  287  ls ../
+  288  ls ../../
+  289  cd
+  290  cd Dropbox/work/sdacademy/DataScienceCZ7
+  291  pwd
+  292  cd ..
+  293  cd DataScienceCZ6
+  294  ls
+  295  ls -l
+  296  ls -a
+  297  ls -la
+  298  ls -R
+  299  cd ../DataScienceCZ7
+  300  ls
+  301  mkdir 03_system_tools
+  302  ls
+  303  cd 03_system_tools/
+  304  ls
+  305  cd ..
+  306  ls -R
+  307  ll
+  308  ls -la
+  309  ll
+  310  ls -l
+  311  ll
+  312  ls --help
+  313  ls --help
+  314  ls -la
+  315  ls -R
+  316  man ls
+  317  pwd
+  318  cd
+  319  pwd
+  320  cd Dropbox/
+  321  cd work/sdacademy/DataScienceCZ7/
+  322  ls
+  323  dir d:
+  324  pwd
+  325  cd /
+  326  ls
+  327  cd e:
+  328  cd d:
+  329  ls
+  330  cd
+  331  cd /c/Users/petrg/Dropbox/work/sdacademy/DataScienceCZ7/
+  332  cd -
+  333  cd -
+  334  cd 03_system_tools/
+  335  ls
+  336  mkdir dir1
+  337  ls
+  338  mkdir dir2
+  339  ls
+  340  mkdir dir1/dir1.1
+  341  ls
+  342  ls dir1
+  343  ls -R
+  344  mkdir dir2/dir2.1
+  345  ls -R
+  346  rmdir dir2/dir2.1/
+  347  ls -R
+  348  ls
+  349  ls -la
+  350  cat soubor.txt 
+  351  ls -la
+  352  cat adresy.csv 
+  353  cat adresy.csv 
+  354  head adresy.csv 
+  355  tail adresy.csv 
+  356  head -3 adresy.csv 
+  357  tail -3 adresy.csv 
+  358  tail adresy.csv 
+  359  tail adresy.csv 
+  360  head -1 adresy.csv 
+  361  head -5 adresy.csv 
+  362  tail -3 adresy.csv 
+  363  touch file1
+  364  ls -la
+  365  cp adresy.csv dir1/
+  366  ls dir1/
+  367  ls -la
+  368  ls -R
+  369  cp adresy.csv adresy_bck.csv
+  370  ls -la
+  371  cp *csv dir2/
+  372  ls dir2/
+  373  ls -la
+  374  cp soubor.txt file1 
+  375  ls -la
+  376  mkdir dir3
+  377  mv adresy_bck.csv dir3/
+  378  ls -la
+  379  ls dir3
+  380  ls -la
+  381  mv file1 adresy_bck2.csv
+  382  ls -la
+  383  mv adresy_bck2.csv dir3/zaloha.csv
+  384  ls -la
+  385  ls -ls dir3
+  386  rm dir3/zaloha.csv 
+  387  ls -ls dir3
+  388  cp dir3/adresy_bck.csv dir3/zaloha.csv
+  389  ls -ls dir3
+  390  rm dir3/*.csv
+  391  ls -ls dir3
+  392  cp adresy.csv dir3/
+  393  ls -la dir3
+  394  rm -r dir3
+  395  ls -la
+  396  cat soubor.txt 
+  397  ls -la
+  398  cat soubor.txt 
+  399  cat soubor2.txt 
+  400  cat soubor3.txt 
+  401  cat soubor.txt soubor2.txt soubor3.txt 
+  402  cat soubor.txt 
+  403  cat soubor.txt soubor2.txt soubor3.txt > merged_file.txt
+  404  cat merged_file.txt 
+  405  la -la > my_dir.txt
+  406  ls -la > my_dir.txt
+  407  cat my_dir.txt 
+  408  ping seznam.cz
+  409  ping seznam.cz > ping_seznam.txt
+  410  cat ping_seznam.txt 
+  411  more adresy.csv 
+  412  less adresy.csv 
+  413  cd ..
+  414  cd ..
+  415  cd DataScienceCZ6/
+  416  ls
+  417  ls -R
+  418  ls -R | less
+  419  cd ../DataScienceCZ7/
+  420  ls
+  421  cd 03_system_tools/
+  422  ls
+  423  vim ping_seznam.txt 
+  424  vim ping_seznam.txt 
+  425  vim ping_seznam.txt 
+  426  vim new_file.txt
+  427  ls -la
+  428  cat new_file.txt 
+  429  vim adresy.csv 
+  430  vim adresy.csv 
+  431  ls -la
+  432  git config --global
+  433  git config user.name "Petr Gregor"
+  434  mkdir first_git_project
+  435  ls -la
+  436  cd first_git_project/
+  437  ls -la
+  438  ls -la
+  439  git config --global user.name "Petr Gregor"
+  440  git config --global user.email "petr.gregor@email.cz"
+  441  git config -list
+  442  git config --list
+  443  ls
+  444  ls -la
+  445  git init
+  446  ls -la
+  447  ls -la .git/
+  448  ls -la
+  449  vim main.py
+  450  ls -la
+  451  cat main.py 
+  452  vim functions.py
+  453  vim classes.py
+  454  ls -la
+  455  touch plot1.png
+  456  touch plot2.png
+  457  touch plot3.jpg
+  458  ll
+  459  vim readme.md
+  460  ll
+  461  git status
+  462  git commit -m "init"
+  463  git add *.py
+  464  git status
+  465  git add readme.md 
+  466  git status
+  467  git commit -m "Init commit"
+  468  git status
+  469  ll
+  470  vim main.py 
+  471  git status
+  472  git diff
+  473  git commit
+  474  git add main.py 
+  475  git status
+  476  git commit
+  477  git status
+  478  vim main.py 
+  479  git status
+  480  git diff
+  481  git add main.py 
+  482  git coomit -m "3x print"
+  483  git commit -m "3x print"
+  484  git remote add origin https://github.com/petrgregor/DataScienceCZ7_git.git
+  485  git push -u origin master
+  486  git --list
+  487  ssh-keygen
+  488  ls -la
+  489  cat aaa.pub 
+  490  git push -u origin master
+  491  pip install jupyter
+  492  jupyter-notebook
+  493  jupyter notebook
+  494  ll
+  495  dir
+  496  ls
+  497  ls -la
+  498  ll
+  499  git -v
+  500  ls
+  501  py main.py 
+  502  ls
+  503  ls main.py 
+  504  cd .venv/
+  505  ls
+  506  ls Lib/
+  507  ls Scripts/
+  508  cd ..
+  509  ls .venv/
+  510  ls .venv/Scripts/
+  511  ls .venv/Scripts/ .venv/Lib/
+  512  cd .venv/Lib/
+  513  cd ..
+  514  cd ..
+  515  ls
+  516  cd .venv/Lib/
+  517  cd ../..
+  518  cd .venv/Lib/
+  519  cd /c/Users/petrg/work/sdacademy/DataScienceRemoteZ4078/m03_system_tools/pythonProject1/
+  520  ls .venv/Scripts/ .venv/Lib/
+  521  ls .venv/Scripts/*.exe
+  522  ls .venv/Scripts/*.py
+  523  ls .venv/Scripts/activate*
+  524  ls .venv/Scripts/activate
+  525  ls .venv/Scripts/
+  526  ls -l .venv/Scripts/ 
+  527  ls -l .venv/
+  528  ls -la .venv/
+  529  ls -h
+  530  ls --help
+  531  ls -R
+  532  ls -R .venv/
+  533  ls -la
+  534  la
+  535  ls --help
+  536  man ls
+  537  ls .venv/Scripts/
+  538  ls .venv/Scripts/ > files.txt
+  539  py main.py 
+  540  py main.py > hi_pycharm.txt
+  541  pwd
+  542  cd
+  543  pwd
+  544  cd work/sdacademy/DataScienceRemoteZ4078/m03_system_tools/pythonProject1/
+  545  cd
+  546  pwd
+  547  cd -
+  548  mkdir new_dir
+  549  rmdir new_dir/
+  550  ls -la
+  551  rm files.txt 
+  552  ls -la
+  553  ls -la > files.txt
+  554  rm *.txt
+  555  ls -la
+  556  cp main.py main_new.py
+  557  mkdir backup
+  558  cp main.py backup/main.bck
+  559  mkdir backup/python_files
+  560  mkdir backup/txt_files
+  561  cp *.py backup/python_files/
+  562  ls -la > files.txt
+  563  ls -la .venv/Scripts/ > scripts.txt
+  564  ls -la
+  565  cp *.txt backup/txt_files/
+  566  ls -la
+  567  ll
+  568  cat scripts.txt 
+  569  head scripts.txt 
+  570  head 5 scripts.txt 
+  571  tail scripts.txt 
+  572  touch new_file.txt
+  573  mv new_file.txt empty_file.txt
+  574  vim my_file.txt
+  575  ls -la
+  576  vim scripts.txt 
+  577  vim new_file.txt
+  578  ls -Rla .
+  579  ls -Rla . > big_file.txt
+  580  vim big_file.txt 
+  581  vim big_file.txt 
+  582  vim big_file.txt 
+  583  ls 
+  584  ls -a
+  585  ls .venv/
+  586  ls -a .venv/
+  587  ls -A .venv/
+  588  ls -A .venv/Scripts/
+  589  ls -Al .venv/Scripts/
+  590  mkdir project
+  591  cd project/
+  592  touch file1
+  593  touch file2
+  594  touch file3
+  595  vim file1
+  596  vim file1
+  597  vim file2
+  598  vim file3
+  599  vim file1
+  600  [A
+  601  vim file1
+  602  vim file1
+  603  cat file1
+  604  cat file2
+  605  cat file*
+  606  ls /c/Users/petrg/
+  607  ls -l /c/Users/petrg/
+  608  cd
+  609  ls -l
+  610  cd -
+  611  cd ..
+  612  ls .venv/
+  613  ls -R .venv/
+  614* 
+  615  cd
+  616  ls -l .bash_history 
+  617  cat .bash_history 
+  618  history
+  619  cd -
+  620  history > history.txt

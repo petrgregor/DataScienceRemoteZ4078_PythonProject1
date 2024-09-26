@@ -1,0 +1,9 @@
+total 10
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 ..
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:51 .idea
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 .venv
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 backup
+-rw-r--r-- 1 petrg 197609   0 Sep 25 19:55 files.txt
+-rw-r--r-- 1 petrg 197609 544 Sep 25 18:29 main.py
+-rw-r--r-- 1 petrg 197609 544 Sep 25 19:53 main_new.py

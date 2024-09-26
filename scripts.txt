@@ -1,0 +1,17 @@
+total 994
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   2298 Sep 25 18:29 activate
+-rw-r--r-- 1 petrg 197609   1108 Sep 25 18:29 activate.bat
+-rw-r--r-- 1 petrg 197609   3128 Sep 25 18:29 activate.fish
+-rw-r--r-- 1 petrg 197609   2813 Sep 25 18:29 activate.nu
+-rw-r--r-- 1 petrg 197609   1654 Sep 25 18:29 activate.ps1
+-rw-r--r-- 1 petrg 197609   1332 Sep 25 18:29 activate_this.py
+-rw-r--r-- 1 petrg 197609    537 Sep 25 18:29 deactivate.bat
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip-3.12.exe
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip.exe
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip3.12.exe
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip3.exe
+-rw-r--r-- 1 petrg 197609     24 Sep 25 18:29 pydoc.bat
+-rwxr-xr-x 1 petrg 197609 274712 Sep 25 18:29 python.exe
+-rwxr-xr-x 1 petrg 197609 263448 Sep 25 18:29 pythonw.exe

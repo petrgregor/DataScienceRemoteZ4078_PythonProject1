@@ -1,0 +1,27 @@
+$Recycle.Bin
+$WINDOWS.~BT
+$WinREAgent
+1020.log
+Documents and Settings
+DumpStack.log
+DumpStack.log.tmp
+MinGW
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Programs
+Recovery
+System Volume Information
+System.sav
+Users
+Windows
+bootTel.dat
+hiberfil.sys
+hp
+hpswsetup
+pagefile.sys
+plots
+rtools43
+swapfile.sys

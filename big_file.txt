@@ -1,0 +1,865 @@
+.:
+total 36
+drwxr-xr-x 1 petrg 197609     0 Sep 25 20:32 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+drwxr-xr-x 1 petrg 197609     0 Sep 25 20:32 .idea
+-rw-r--r-- 1 petrg 197609 12288 Sep 25 20:24 .my_file.txt.swp
+-rw-r--r-- 1 petrg 197609  4096 Sep 25 20:25 .scripts.txt.swp
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .venv
+drwxr-xr-x 1 petrg 197609     0 Sep 25 19:55 backup
+-rw-r--r-- 1 petrg 197609     0 Sep 25 20:32 big_file.txt
+-rw-r--r-- 1 petrg 197609     0 Sep 25 20:20 empty_file.txt
+-rw-r--r-- 1 petrg 197609   407 Sep 25 19:55 files.txt
+-rw-r--r-- 1 petrg 197609   544 Sep 25 18:29 main.py
+-rw-r--r-- 1 petrg 197609   544 Sep 25 19:53 main_new.py
+-rw-r--r-- 1 petrg 197609    11 Sep 25 20:27 new_file.txt
+-rw-r--r-- 1 petrg 197609   919 Sep 25 19:56 scripts.txt
+
+./.idea:
+total 21
+drwxr-xr-x 1 petrg 197609    0 Sep 25 20:32 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 20:32 ..
+-rw-r--r-- 1 petrg 197609  184 Sep 25 18:29 .gitignore
+-rw-r--r-- 1 petrg 197609  176 Sep 25 18:29 git_toolbox_blame.xml
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 inspectionProfiles
+-rw-r--r-- 1 petrg 197609  326 Sep 25 18:29 misc.xml
+-rw-r--r-- 1 petrg 197609  287 Sep 25 18:29 modules.xml
+-rw-r--r-- 1 petrg 197609  362 Sep 25 18:29 pythonProject1.iml
+-rw-r--r-- 1 petrg 197609 4116 Sep 25 20:32 workspace.xml
+
+./.idea/inspectionProfiles:
+total 13
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 20:32 ..
+-rw-r--r-- 1 petrg 197609 4198 Sep 25 18:29 Project_Default.xml
+-rw-r--r-- 1 petrg 197609  174 Sep 25 18:29 profiles_settings.xml
+
+./.venv:
+total 10
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 20:32 ..
+-rw-r--r-- 1 petrg 197609  42 Sep 25 18:29 .gitignore
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 Lib
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 Scripts
+-rw-r--r-- 1 petrg 197609 410 Sep 25 18:29 pyvenv.cfg
+
+./.venv/Lib:
+total 4
+drwxr-xr-x 1 petrg 197609 0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609 0 Sep 25 18:29 ..
+drwxr-xr-x 1 petrg 197609 0 Sep 25 18:29 site-packages
+
+./.venv/Lib/site-packages:
+total 21
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 __pycache__
+-rw-r--r-- 1 petrg 197609   18 Sep 25 18:29 _virtualenv.pth
+-rw-r--r-- 1 petrg 197609 4431 Sep 25 18:29 _virtualenv.py
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 pip
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 pip-24.1.2.dist-info
+-rw-r--r-- 1 petrg 197609    0 Sep 25 18:29 pip-24.1.2.virtualenv
+
+./.venv/Lib/site-packages/__pycache__:
+total 12
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 4294 Sep 25 18:29 _virtualenv.cpython-312.pyc
+
+./.venv/Lib/site-packages/pip:
+total 26
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  357 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  854 Sep 25 18:29 __main__.py
+-rw-r--r-- 1 petrg 197609 1450 Sep 25 18:29 __pip-runner__.py
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 _internal
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 _vendor
+-rw-r--r-- 1 petrg 197609  286 Sep 25 18:29 py.typed
+
+./.venv/Lib/site-packages/pip/_internal:
+total 158
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   513 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 10374 Sep 25 18:29 build_env.py
+-rw-r--r-- 1 petrg 197609 10369 Sep 25 18:29 cache.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 cli
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 commands
+-rw-r--r-- 1 petrg 197609 14006 Sep 25 18:29 configuration.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 distributions
+-rw-r--r-- 1 petrg 197609 25371 Sep 25 18:29 exceptions.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 index
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 locations
+-rw-r--r-- 1 petrg 197609   340 Sep 25 18:29 main.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 metadata
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 models
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 network
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 operations
+-rw-r--r-- 1 petrg 197609  7152 Sep 25 18:29 pyproject.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 req
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 resolution
+-rw-r--r-- 1 petrg 197609  8356 Sep 25 18:29 self_outdated_check.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 utils
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 vcs
+-rw-r--r-- 1 petrg 197609 11799 Sep 25 18:29 wheel_builder.py
+
+./.venv/Lib/site-packages/pip/_internal/cli:
+total 122
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   132 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  6865 Sep 25 18:29 autocompletion.py
+-rw-r--r-- 1 petrg 197609  8667 Sep 25 18:29 base_command.py
+-rw-r--r-- 1 petrg 197609 30066 Sep 25 18:29 cmdoptions.py
+-rw-r--r-- 1 petrg 197609   774 Sep 25 18:29 command_context.py
+-rw-r--r-- 1 petrg 197609  5857 Sep 25 18:29 index_command.py
+-rw-r--r-- 1 petrg 197609  2817 Sep 25 18:29 main.py
+-rw-r--r-- 1 petrg 197609  4338 Sep 25 18:29 main_parser.py
+-rw-r--r-- 1 petrg 197609 10811 Sep 25 18:29 parser.py
+-rw-r--r-- 1 petrg 197609  2714 Sep 25 18:29 progress_bars.py
+-rw-r--r-- 1 petrg 197609 12250 Sep 25 18:29 req_command.py
+-rw-r--r-- 1 petrg 197609  5118 Sep 25 18:29 spinners.py
+-rw-r--r-- 1 petrg 197609   116 Sep 25 18:29 status_codes.py
+
+./.venv/Lib/site-packages/pip/_internal/commands:
+total 160
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  3882 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  7944 Sep 25 18:29 cache.py
+-rw-r--r-- 1 petrg 197609  1684 Sep 25 18:29 check.py
+-rw-r--r-- 1 petrg 197609  4287 Sep 25 18:29 completion.py
+-rw-r--r-- 1 petrg 197609  9766 Sep 25 18:29 configuration.py
+-rw-r--r-- 1 petrg 197609  6797 Sep 25 18:29 debug.py
+-rw-r--r-- 1 petrg 197609  5273 Sep 25 18:29 download.py
+-rw-r--r-- 1 petrg 197609  3172 Sep 25 18:29 freeze.py
+-rw-r--r-- 1 petrg 197609  1703 Sep 25 18:29 hash.py
+-rw-r--r-- 1 petrg 197609  1132 Sep 25 18:29 help.py
+-rw-r--r-- 1 petrg 197609  4731 Sep 25 18:29 index.py
+-rw-r--r-- 1 petrg 197609  3189 Sep 25 18:29 inspect.py
+-rw-r--r-- 1 petrg 197609 28997 Sep 25 18:29 install.py
+-rw-r--r-- 1 petrg 197609 12771 Sep 25 18:29 list.py
+-rw-r--r-- 1 petrg 197609  5628 Sep 25 18:29 search.py
+-rw-r--r-- 1 petrg 197609  7507 Sep 25 18:29 show.py
+-rw-r--r-- 1 petrg 197609  3892 Sep 25 18:29 uninstall.py
+-rw-r--r-- 1 petrg 197609  6414 Sep 25 18:29 wheel.py
+
+./.venv/Lib/site-packages/pip/_internal/distributions:
+total 32
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  858 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 1783 Sep 25 18:29 base.py
+-rw-r--r-- 1 petrg 197609  842 Sep 25 18:29 installed.py
+-rw-r--r-- 1 petrg 197609 6751 Sep 25 18:29 sdist.py
+-rw-r--r-- 1 petrg 197609 1317 Sep 25 18:29 wheel.py
+
+./.venv/Lib/site-packages/pip/_internal/index:
+total 73
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    30 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 16265 Sep 25 18:29 collector.py
+-rw-r--r-- 1 petrg 197609 37733 Sep 25 18:29 package_finder.py
+-rw-r--r-- 1 petrg 197609  8688 Sep 25 18:29 sources.py
+
+./.venv/Lib/site-packages/pip/_internal/locations:
+total 44
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 14925 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  6009 Sep 25 18:29 _distutils.py
+-rw-r--r-- 1 petrg 197609  7724 Sep 25 18:29 _sysconfig.py
+-rw-r--r-- 1 petrg 197609  2556 Sep 25 18:29 base.py
+
+./.venv/Lib/site-packages/pip/_internal/metadata:
+total 60
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  4339 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  2644 Sep 25 18:29 _json.py
+-rw-r--r-- 1 petrg 197609 25298 Sep 25 18:29 base.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 importlib
+-rw-r--r-- 1 petrg 197609 10542 Sep 25 18:29 pkg_resources.py
+
+./.venv/Lib/site-packages/pip/_internal/metadata/importlib:
+total 29
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  135 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 1882 Sep 25 18:29 _compat.py
+-rw-r--r-- 1 petrg 197609 8275 Sep 25 18:29 _dists.py
+-rw-r--r-- 1 petrg 197609 7455 Sep 25 18:29 _envs.py
+
+./.venv/Lib/site-packages/pip/_internal/models:
+total 82
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    63 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   753 Sep 25 18:29 candidate.py
+-rw-r--r-- 1 petrg 197609  6578 Sep 25 18:29 direct_url.py
+-rw-r--r-- 1 petrg 197609  2486 Sep 25 18:29 format_control.py
+-rw-r--r-- 1 petrg 197609  1030 Sep 25 18:29 index.py
+-rw-r--r-- 1 petrg 197609  2818 Sep 25 18:29 installation_report.py
+-rw-r--r-- 1 petrg 197609 21034 Sep 25 18:29 link.py
+-rw-r--r-- 1 petrg 197609   575 Sep 25 18:29 scheme.py
+-rw-r--r-- 1 petrg 197609  4531 Sep 25 18:29 search_scope.py
+-rw-r--r-- 1 petrg 197609  2015 Sep 25 18:29 selection_prefs.py
+-rw-r--r-- 1 petrg 197609  4271 Sep 25 18:29 target_python.py
+-rw-r--r-- 1 petrg 197609  3601 Sep 25 18:29 wheel.py
+
+./.venv/Lib/site-packages/pip/_internal/network:
+total 81
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    50 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 20533 Sep 25 18:29 auth.py
+-rw-r--r-- 1 petrg 197609  3935 Sep 25 18:29 cache.py
+-rw-r--r-- 1 petrg 197609  6087 Sep 25 18:29 download.py
+-rw-r--r-- 1 petrg 197609  7638 Sep 25 18:29 lazy_wheel.py
+-rw-r--r-- 1 petrg 197609 18741 Sep 25 18:29 session.py
+-rw-r--r-- 1 petrg 197609  4073 Sep 25 18:29 utils.py
+-rw-r--r-- 1 petrg 197609  1838 Sep 25 18:29 xmlrpc.py
+
+./.venv/Lib/site-packages/pip/_internal/operations:
+total 60
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 build
+-rw-r--r-- 1 petrg 197609  5087 Sep 25 18:29 check.py
+-rw-r--r-- 1 petrg 197609  9864 Sep 25 18:29 freeze.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 install
+-rw-r--r-- 1 petrg 197609 28118 Sep 25 18:29 prepare.py
+
+./.venv/Lib/site-packages/pip/_internal/operations/build:
+total 40
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 4774 Sep 25 18:29 build_tracker.py
+-rw-r--r-- 1 petrg 197609 1422 Sep 25 18:29 metadata.py
+-rw-r--r-- 1 petrg 197609 1474 Sep 25 18:29 metadata_editable.py
+-rw-r--r-- 1 petrg 197609 2190 Sep 25 18:29 metadata_legacy.py
+-rw-r--r-- 1 petrg 197609 1075 Sep 25 18:29 wheel.py
+-rw-r--r-- 1 petrg 197609 1417 Sep 25 18:29 wheel_editable.py
+-rw-r--r-- 1 petrg 197609 3045 Sep 25 18:29 wheel_legacy.py
+
+./.venv/Lib/site-packages/pip/_internal/operations/install:
+total 37
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    51 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  1283 Sep 25 18:29 editable_legacy.py
+-rw-r--r-- 1 petrg 197609 27197 Sep 25 18:29 wheel.py
+
+./.venv/Lib/site-packages/pip/_internal/req:
+total 116
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  2653 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 18412 Sep 25 18:29 constructors.py
+-rw-r--r-- 1 petrg 197609 17687 Sep 25 18:29 req_file.py
+-rw-r--r-- 1 petrg 197609 35054 Sep 25 18:29 req_install.py
+-rw-r--r-- 1 petrg 197609  2858 Sep 25 18:29 req_set.py
+-rw-r--r-- 1 petrg 197609 23853 Sep 25 18:29 req_uninstall.py
+
+./.venv/Lib/site-packages/pip/_internal/resolution:
+total 9
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 583 Sep 25 18:29 base.py
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 legacy
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 resolvelib
+
+./.venv/Lib/site-packages/pip/_internal/resolution/legacy:
+total 24
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 24068 Sep 25 18:29 resolver.py
+
+./.venv/Lib/site-packages/pip/_internal/resolution/resolvelib:
+total 112
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  5023 Sep 25 18:29 base.py
+-rw-r--r-- 1 petrg 197609 19823 Sep 25 18:29 candidates.py
+-rw-r--r-- 1 petrg 197609 32395 Sep 25 18:29 factory.py
+-rw-r--r-- 1 petrg 197609  6383 Sep 25 18:29 found_candidates.py
+-rw-r--r-- 1 petrg 197609  9935 Sep 25 18:29 provider.py
+-rw-r--r-- 1 petrg 197609  3100 Sep 25 18:29 reporter.py
+-rw-r--r-- 1 petrg 197609  8065 Sep 25 18:29 requirements.py
+-rw-r--r-- 1 petrg 197609 12592 Sep 25 18:29 resolver.py
+
+./.venv/Lib/site-packages/pip/_internal/utils:
+total 181
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  3350 Sep 25 18:29 _jaraco_text.py
+-rw-r--r-- 1 petrg 197609  1015 Sep 25 18:29 _log.py
+-rw-r--r-- 1 petrg 197609  1665 Sep 25 18:29 appdirs.py
+-rw-r--r-- 1 petrg 197609  2399 Sep 25 18:29 compat.py
+-rw-r--r-- 1 petrg 197609  5377 Sep 25 18:29 compatibility_tags.py
+-rw-r--r-- 1 petrg 197609   242 Sep 25 18:29 datetime.py
+-rw-r--r-- 1 petrg 197609  3707 Sep 25 18:29 deprecation.py
+-rw-r--r-- 1 petrg 197609  3196 Sep 25 18:29 direct_url_helpers.py
+-rw-r--r-- 1 petrg 197609  2463 Sep 25 18:29 egg_link.py
+-rw-r--r-- 1 petrg 197609  1169 Sep 25 18:29 encoding.py
+-rw-r--r-- 1 petrg 197609  3064 Sep 25 18:29 entrypoints.py
+-rw-r--r-- 1 petrg 197609  5122 Sep 25 18:29 filesystem.py
+-rw-r--r-- 1 petrg 197609   716 Sep 25 18:29 filetypes.py
+-rw-r--r-- 1 petrg 197609  3113 Sep 25 18:29 glibc.py
+-rw-r--r-- 1 petrg 197609  4951 Sep 25 18:29 hashes.py
+-rw-r--r-- 1 petrg 197609 11602 Sep 25 18:29 logging.py
+-rw-r--r-- 1 petrg 197609 23814 Sep 25 18:29 misc.py
+-rw-r--r-- 1 petrg 197609  2108 Sep 25 18:29 packaging.py
+-rw-r--r-- 1 petrg 197609  4435 Sep 25 18:29 setuptools_build.py
+-rw-r--r-- 1 petrg 197609  8988 Sep 25 18:29 subprocess.py
+-rw-r--r-- 1 petrg 197609  9312 Sep 25 18:29 temp_dir.py
+-rw-r--r-- 1 petrg 197609 11951 Sep 25 18:29 unpacking.py
+-rw-r--r-- 1 petrg 197609  1599 Sep 25 18:29 urls.py
+-rw-r--r-- 1 petrg 197609  3456 Sep 25 18:29 virtualenv.py
+-rw-r--r-- 1 petrg 197609  4494 Sep 25 18:29 wheel.py
+total 77
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   596 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  3528 Sep 25 18:29 bazaar.py
+-rw-r--r-- 1 petrg 197609 18177 Sep 25 18:29 git.py
+-rw-r--r-- 1 petrg 197609  5249 Sep 25 18:29 mercurial.py
+-rw-r--r-- 1 petrg 197609 11735 Sep 25 18:29 subversion.py
+-rw-r--r-- 1 petrg 197609 22440 Sep 25 18:29 versioncontrol.py
+
+./.venv/Lib/site-packages/pip/_vendor:
+total 201
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   4850 Sep 25 18:29 __init__.py
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 cachecontrol
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 certifi
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 distlib
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 distro
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 idna
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 msgpack
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 packaging
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 pkg_resources
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 platformdirs
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 pygments
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 pyproject_hooks
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 requests
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 resolvelib
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 rich
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 tenacity
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 tomli
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 truststore
+-rw-r--r-- 1 petrg 197609 122341 Sep 25 18:29 typing_extensions.py
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 urllib3
+-rw-r--r-- 1 petrg 197609    346 Sep 25 18:29 vendor.txt
+
+./.venv/Lib/site-packages/pip/_vendor/cachecontrol:
+total 73
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   676 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  1737 Sep 25 18:29 _cmd.py
+-rw-r--r-- 1 petrg 197609  6355 Sep 25 18:29 adapter.py
+-rw-r--r-- 1 petrg 197609  1952 Sep 25 18:29 cache.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 caches
+-rw-r--r-- 1 petrg 197609 18575 Sep 25 18:29 controller.py
+-rw-r--r-- 1 petrg 197609  4292 Sep 25 18:29 filewrapper.py
+-rw-r--r-- 1 petrg 197609  4834 Sep 25 18:29 heuristics.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609  5163 Sep 25 18:29 serialize.py
+-rw-r--r-- 1 petrg 197609  1417 Sep 25 18:29 wrapper.py
+
+./.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches:
+total 17
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  303 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 5406 Sep 25 18:29 file_cache.py
+-rw-r--r-- 1 petrg 197609 1386 Sep 25 18:29 redis_cache.py
+
+./.venv/Lib/site-packages/pip/_vendor/certifi:
+total 302
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     94 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609    255 Sep 25 18:29 __main__.py
+-rw-r--r-- 1 petrg 197609 292541 Sep 25 18:29 cacert.pem
+-rw-r--r-- 1 petrg 197609   4486 Sep 25 18:29 core.py
+-rw-r--r-- 1 petrg 197609      0 Sep 25 18:29 py.typed
+
+./.venv/Lib/site-packages/pip/_vendor/distlib:
+total 1157
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    625 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  41487 Sep 25 18:29 compat.py
+-rw-r--r-- 1 petrg 197609  51965 Sep 25 18:29 database.py
+-rw-r--r-- 1 petrg 197609  20797 Sep 25 18:29 index.py
+-rw-r--r-- 1 petrg 197609  51767 Sep 25 18:29 locators.py
+-rw-r--r-- 1 petrg 197609  14168 Sep 25 18:29 manifest.py
+-rw-r--r-- 1 petrg 197609   5268 Sep 25 18:29 markers.py
+-rw-r--r-- 1 petrg 197609  39693 Sep 25 18:29 metadata.py
+-rw-r--r-- 1 petrg 197609  10820 Sep 25 18:29 resources.py
+-rw-r--r-- 1 petrg 197609  18780 Sep 25 18:29 scripts.py
+-rwxr-xr-x 1 petrg 197609  97792 Sep 25 18:29 t32.exe
+-rwxr-xr-x 1 petrg 197609 182784 Sep 25 18:29 t64-arm.exe
+-rwxr-xr-x 1 petrg 197609 108032 Sep 25 18:29 t64.exe
+-rw-r--r-- 1 petrg 197609  67530 Sep 25 18:29 util.py
+-rw-r--r-- 1 petrg 197609  23747 Sep 25 18:29 version.py
+-rwxr-xr-x 1 petrg 197609  91648 Sep 25 18:29 w32.exe
+-rwxr-xr-x 1 petrg 197609 168448 Sep 25 18:29 w64-arm.exe
+-rwxr-xr-x 1 petrg 197609 101888 Sep 25 18:29 w64.exe
+-rw-r--r-- 1 petrg 197609  43958 Sep 25 18:29 wheel.py
+
+./.venv/Lib/site-packages/pip/_vendor/distro:
+total 61
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   981 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609    64 Sep 25 18:29 __main__.py
+-rwxr-xr-x 1 petrg 197609 49430 Sep 25 18:29 distro.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+
+./.venv/Lib/site-packages/pip/_vendor/idna:
+total 322
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    849 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   3426 Sep 25 18:29 codec.py
+-rw-r--r-- 1 petrg 197609    321 Sep 25 18:29 compat.py
+-rw-r--r-- 1 petrg 197609  12663 Sep 25 18:29 core.py
+-rw-r--r-- 1 petrg 197609  78320 Sep 25 18:29 idnadata.py
+-rw-r--r-- 1 petrg 197609   1881 Sep 25 18:29 intranges.py
+-rw-r--r-- 1 petrg 197609     21 Sep 25 18:29 package_data.py
+-rw-r--r-- 1 petrg 197609      0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609 206503 Sep 25 18:29 uts46data.py
+
+./.venv/Lib/site-packages/pip/_vendor/msgpack:
+total 56
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  1077 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  1081 Sep 25 18:29 exceptions.py
+-rw-r--r-- 1 petrg 197609  5629 Sep 25 18:29 ext.py
+-rw-r--r-- 1 petrg 197609 33175 Sep 25 18:29 fallback.py
+
+./.venv/Lib/site-packages/pip/_vendor/packaging:
+total 185
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   496 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  3282 Sep 25 18:29 _elffile.py
+-rw-r--r-- 1 petrg 197609  9586 Sep 25 18:29 _manylinux.py
+-rw-r--r-- 1 petrg 197609  2694 Sep 25 18:29 _musllinux.py
+-rw-r--r-- 1 petrg 197609 10236 Sep 25 18:29 _parser.py
+-rw-r--r-- 1 petrg 197609  1431 Sep 25 18:29 _structures.py
+-rw-r--r-- 1 petrg 197609  5273 Sep 25 18:29 _tokenizer.py
+-rw-r--r-- 1 petrg 197609 10671 Sep 25 18:29 markers.py
+-rw-r--r-- 1 petrg 197609 32349 Sep 25 18:29 metadata.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609  2947 Sep 25 18:29 requirements.py
+-rw-r--r-- 1 petrg 197609 39738 Sep 25 18:29 specifiers.py
+-rw-r--r-- 1 petrg 197609 18883 Sep 25 18:29 tags.py
+-rw-r--r-- 1 petrg 197609  5287 Sep 25 18:29 utils.py
+-rw-r--r-- 1 petrg 197609 16210 Sep 25 18:29 version.py
+
+./.venv/Lib/site-packages/pip/_vendor/pkg_resources:
+total 112
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 108869 Sep 25 18:29 __init__.py
+
+./.venv/Lib/site-packages/pip/_vendor/platformdirs:
+total 89
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 22285 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  1505 Sep 25 18:29 __main__.py
+-rw-r--r-- 1 petrg 197609  7681 Sep 25 18:29 android.py
+-rw-r--r-- 1 petrg 197609  8996 Sep 25 18:29 api.py
+-rw-r--r-- 1 petrg 197609  5580 Sep 25 18:29 macos.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609 10643 Sep 25 18:29 unix.py
+-rw-r--r-- 1 petrg 197609   411 Sep 25 18:29 version.py
+-rw-r--r-- 1 petrg 197609 10125 Sep 25 18:29 windows.py
+
+./.venv/Lib/site-packages/pip/_vendor/pygments:
+total 209
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  2983 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   353 Sep 25 18:29 __main__.py
+-rw-r--r-- 1 petrg 197609 23650 Sep 25 18:29 cmdline.py
+-rw-r--r-- 1 petrg 197609  1697 Sep 25 18:29 console.py
+-rw-r--r-- 1 petrg 197609  1938 Sep 25 18:29 filter.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 filters
+-rw-r--r-- 1 petrg 197609  4178 Sep 25 18:29 formatter.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 formatters
+-rw-r--r-- 1 petrg 197609 35284 Sep 25 18:29 lexer.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 lexers
+-rw-r--r-- 1 petrg 197609   986 Sep 25 18:29 modeline.py
+-rw-r--r-- 1 petrg 197609  2591 Sep 25 18:29 plugin.py
+-rw-r--r-- 1 petrg 197609  3072 Sep 25 18:29 regexopt.py
+-rw-r--r-- 1 petrg 197609  3092 Sep 25 18:29 scanner.py
+-rw-r--r-- 1 petrg 197609  7770 Sep 25 18:29 sphinxext.py
+-rw-r--r-- 1 petrg 197609  6420 Sep 25 18:29 style.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 styles
+-rw-r--r-- 1 petrg 197609  6226 Sep 25 18:29 token.py
+-rw-r--r-- 1 petrg 197609 63223 Sep 25 18:29 unistring.py
+-rw-r--r-- 1 petrg 197609 10230 Sep 25 18:29 util.py
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/filters:
+total 44
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 40386 Sep 25 18:29 __init__.py
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/formatters:
+total 172
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  5431 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  4176 Sep 25 18:29 _mapping.py
+-rw-r--r-- 1 petrg 197609  3314 Sep 25 18:29 bbcode.py
+-rw-r--r-- 1 petrg 197609  5094 Sep 25 18:29 groff.py
+-rw-r--r-- 1 petrg 197609 35676 Sep 25 18:29 html.py
+-rw-r--r-- 1 petrg 197609 23140 Sep 25 18:29 img.py
+-rw-r--r-- 1 petrg 197609  4981 Sep 25 18:29 irc.py
+-rw-r--r-- 1 petrg 197609 19351 Sep 25 18:29 latex.py
+-rw-r--r-- 1 petrg 197609  5073 Sep 25 18:29 other.py
+-rw-r--r-- 1 petrg 197609  2212 Sep 25 18:29 pangomarkup.py
+-rw-r--r-- 1 petrg 197609  5014 Sep 25 18:29 rtf.py
+-rw-r--r-- 1 petrg 197609  7335 Sep 25 18:29 svg.py
+-rw-r--r-- 1 petrg 197609  4674 Sep 25 18:29 terminal.py
+-rw-r--r-- 1 petrg 197609 11753 Sep 25 18:29 terminal256.py
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/lexers:
+total 148
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 12161 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 74926 Sep 25 18:29 _mapping.py
+-rw-r--r-- 1 petrg 197609 53448 Sep 25 18:29 python.py
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/styles:
+total 12
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 2042 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 3251 Sep 25 18:29 _mapping.py
+
+./.venv/Lib/site-packages/pip/_vendor/pyproject_hooks:
+total 18
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   491 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   138 Sep 25 18:29 _compat.py
+-rw-r--r-- 1 petrg 197609 11920 Sep 25 18:29 _impl.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 _in_process
+
+./.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process:
+total 13
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   546 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 10927 Sep 25 18:29 _in_process.py
+
+./.venv/Lib/site-packages/pip/_vendor/requests:
+total 230
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  5057 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   435 Sep 25 18:29 __version__.py
+-rw-r--r-- 1 petrg 197609  1495 Sep 25 18:29 _internal_utils.py
+-rw-r--r-- 1 petrg 197609 27607 Sep 25 18:29 adapters.py
+-rw-r--r-- 1 petrg 197609  6449 Sep 25 18:29 api.py
+-rw-r--r-- 1 petrg 197609 10186 Sep 25 18:29 auth.py
+-rwxr-xr-x 1 petrg 197609   575 Sep 25 18:29 certs.py
+-rw-r--r-- 1 petrg 197609  1485 Sep 25 18:29 compat.py
+-rw-r--r-- 1 petrg 197609 18590 Sep 25 18:29 cookies.py
+-rw-r--r-- 1 petrg 197609  4272 Sep 25 18:29 exceptions.py
+-rw-r--r-- 1 petrg 197609  3813 Sep 25 18:29 help.py
+-rw-r--r-- 1 petrg 197609   733 Sep 25 18:29 hooks.py
+-rw-r--r-- 1 petrg 197609 35483 Sep 25 18:29 models.py
+-rw-r--r-- 1 petrg 197609  1057 Sep 25 18:29 packages.py
+-rw-r--r-- 1 petrg 197609 30495 Sep 25 18:29 sessions.py
+-rw-r--r-- 1 petrg 197609  4322 Sep 25 18:29 status_codes.py
+-rw-r--r-- 1 petrg 197609  2912 Sep 25 18:29 structures.py
+-rw-r--r-- 1 petrg 197609 33631 Sep 25 18:29 utils.py
+
+./.venv/Lib/site-packages/pip/_vendor/resolvelib:
+total 53
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   537 Sep 25 18:29 __init__.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 compat
+-rw-r--r-- 1 petrg 197609  5871 Sep 25 18:29 providers.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609  1601 Sep 25 18:29 reporters.py
+-rw-r--r-- 1 petrg 197609 20511 Sep 25 18:29 resolvers.py
+-rw-r--r-- 1 petrg 197609  4963 Sep 25 18:29 structs.py
+
+./.venv/Lib/site-packages/pip/_vendor/resolvelib/compat:
+total 5
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 156 Sep 25 18:29 collections_abc.py
+
+./.venv/Lib/site-packages/pip/_vendor/rich:
+total 1047
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   6090 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   8477 Sep 25 18:29 __main__.py
+-rw-r--r-- 1 petrg 197609  10209 Sep 25 18:29 _cell_widths.py
+-rw-r--r-- 1 petrg 197609 140235 Sep 25 18:29 _emoji_codes.py
+-rw-r--r-- 1 petrg 197609   1064 Sep 25 18:29 _emoji_replace.py
+-rw-r--r-- 1 petrg 197609   2128 Sep 25 18:29 _export_format.py
+-rw-r--r-- 1 petrg 197609    265 Sep 25 18:29 _extension.py
+-rw-r--r-- 1 petrg 197609    799 Sep 25 18:29 _fileno.py
+-rw-r--r-- 1 petrg 197609   9695 Sep 25 18:29 _inspect.py
+-rw-r--r-- 1 petrg 197609   3225 Sep 25 18:29 _log_render.py
+-rw-r--r-- 1 petrg 197609   1236 Sep 25 18:29 _loop.py
+-rw-r--r-- 1 petrg 197609   1387 Sep 25 18:29 _null_file.py
+-rw-r--r-- 1 petrg 197609   7063 Sep 25 18:29 _palettes.py
+-rw-r--r-- 1 petrg 197609    423 Sep 25 18:29 _pick.py
+-rw-r--r-- 1 petrg 197609   5471 Sep 25 18:29 _ratio.py
+-rw-r--r-- 1 petrg 197609  19919 Sep 25 18:29 _spinners.py
+-rw-r--r-- 1 petrg 197609    351 Sep 25 18:29 _stack.py
+-rw-r--r-- 1 petrg 197609    417 Sep 25 18:29 _timer.py
+-rw-r--r-- 1 petrg 197609  22820 Sep 25 18:29 _win32_console.py
+-rw-r--r-- 1 petrg 197609   1925 Sep 25 18:29 _windows.py
+-rw-r--r-- 1 petrg 197609   2783 Sep 25 18:29 _windows_renderer.py
+-rw-r--r-- 1 petrg 197609   3404 Sep 25 18:29 _wrap.py
+-rw-r--r-- 1 petrg 197609    890 Sep 25 18:29 abc.py
+-rw-r--r-- 1 petrg 197609  10368 Sep 25 18:29 align.py
+-rw-r--r-- 1 petrg 197609   6906 Sep 25 18:29 ansi.py
+-rw-r--r-- 1 petrg 197609   3263 Sep 25 18:29 bar.py
+-rw-r--r-- 1 petrg 197609  10831 Sep 25 18:29 box.py
+-rw-r--r-- 1 petrg 197609   4780 Sep 25 18:29 cells.py
+-rw-r--r-- 1 petrg 197609  18223 Sep 25 18:29 color.py
+-rw-r--r-- 1 petrg 197609   1054 Sep 25 18:29 color_triplet.py
+-rw-r--r-- 1 petrg 197609   7131 Sep 25 18:29 columns.py
+-rw-r--r-- 1 petrg 197609  99173 Sep 25 18:29 console.py
+-rw-r--r-- 1 petrg 197609   1288 Sep 25 18:29 constrain.py
+-rw-r--r-- 1 petrg 197609   5502 Sep 25 18:29 containers.py
+-rw-r--r-- 1 petrg 197609   6630 Sep 25 18:29 control.py
+-rw-r--r-- 1 petrg 197609   8082 Sep 25 18:29 default_styles.py
+-rw-r--r-- 1 petrg 197609    972 Sep 25 18:29 diagnose.py
+-rw-r--r-- 1 petrg 197609   2501 Sep 25 18:29 emoji.py
+-rw-r--r-- 1 petrg 197609    642 Sep 25 18:29 errors.py
+-rw-r--r-- 1 petrg 197609   1683 Sep 25 18:29 file_proxy.py
+-rw-r--r-- 1 petrg 197609   2508 Sep 25 18:29 filesize.py
+-rw-r--r-- 1 petrg 197609   9585 Sep 25 18:29 highlighter.py
+-rw-r--r-- 1 petrg 197609   5031 Sep 25 18:29 json.py
+-rw-r--r-- 1 petrg 197609   3252 Sep 25 18:29 jupyter.py
+-rw-r--r-- 1 petrg 197609  14004 Sep 25 18:29 layout.py
+-rw-r--r-- 1 petrg 197609  14271 Sep 25 18:29 live.py
+-rw-r--r-- 1 petrg 197609   3666 Sep 25 18:29 live_render.py
+-rw-r--r-- 1 petrg 197609  11903 Sep 25 18:29 logging.py
+-rw-r--r-- 1 petrg 197609   8451 Sep 25 18:29 markup.py
+-rw-r--r-- 1 petrg 197609   5305 Sep 25 18:29 measure.py
+-rw-r--r-- 1 petrg 197609   4970 Sep 25 18:29 padding.py
+-rw-r--r-- 1 petrg 197609    828 Sep 25 18:29 pager.py
+-rw-r--r-- 1 petrg 197609   3396 Sep 25 18:29 palette.py
+-rw-r--r-- 1 petrg 197609  10705 Sep 25 18:29 panel.py
+-rw-r--r-- 1 petrg 197609  35848 Sep 25 18:29 pretty.py
+-rw-r--r-- 1 petrg 197609  59715 Sep 25 18:29 progress.py
+-rw-r--r-- 1 petrg 197609   8164 Sep 25 18:29 progress_bar.py
+-rw-r--r-- 1 petrg 197609  11304 Sep 25 18:29 prompt.py
+-rw-r--r-- 1 petrg 197609   1391 Sep 25 18:29 protocol.py
+-rw-r--r-- 1 petrg 197609      0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609    166 Sep 25 18:29 region.py
+-rw-r--r-- 1 petrg 197609   4431 Sep 25 18:29 repr.py
+-rw-r--r-- 1 petrg 197609   4602 Sep 25 18:29 rule.py
+-rw-r--r-- 1 petrg 197609   2843 Sep 25 18:29 scope.py
+-rw-r--r-- 1 petrg 197609   1591 Sep 25 18:29 screen.py
+-rw-r--r-- 1 petrg 197609  24246 Sep 25 18:29 segment.py
+-rw-r--r-- 1 petrg 197609   4339 Sep 25 18:29 spinner.py
+-rw-r--r-- 1 petrg 197609   4424 Sep 25 18:29 status.py
+-rw-r--r-- 1 petrg 197609  27073 Sep 25 18:29 style.py
+-rw-r--r-- 1 petrg 197609   1258 Sep 25 18:29 styled.py
+-rw-r--r-- 1 petrg 197609  35475 Sep 25 18:29 syntax.py
+-rw-r--r-- 1 petrg 197609  39680 Sep 25 18:29 table.py
+-rw-r--r-- 1 petrg 197609   3370 Sep 25 18:29 terminal_theme.py
+-rw-r--r-- 1 petrg 197609  47312 Sep 25 18:29 text.py
+-rw-r--r-- 1 petrg 197609   3777 Sep 25 18:29 theme.py
+-rw-r--r-- 1 petrg 197609    102 Sep 25 18:29 themes.py
+-rw-r--r-- 1 petrg 197609  29601 Sep 25 18:29 traceback.py
+-rw-r--r-- 1 petrg 197609   9167 Sep 25 18:29 tree.py
+
+./.venv/Lib/site-packages/pip/_vendor/tenacity:
+total 84
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 20518 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  3551 Sep 25 18:29 _asyncio.py
+-rw-r--r-- 1 petrg 197609  2179 Sep 25 18:29 _utils.py
+-rw-r--r-- 1 petrg 197609  1682 Sep 25 18:29 after.py
+-rw-r--r-- 1 petrg 197609  1562 Sep 25 18:29 before.py
+-rw-r--r-- 1 petrg 197609  2372 Sep 25 18:29 before_sleep.py
+-rw-r--r-- 1 petrg 197609  1383 Sep 25 18:29 nap.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+-rw-r--r-- 1 petrg 197609  8746 Sep 25 18:29 retry.py
+-rw-r--r-- 1 petrg 197609  3086 Sep 25 18:29 stop.py
+-rw-r--r-- 1 petrg 197609  2142 Sep 25 18:29 tornadoweb.py
+-rw-r--r-- 1 petrg 197609  8024 Sep 25 18:29 wait.py
+
+./.venv/Lib/site-packages/pip/_vendor/tomli:
+total 35
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   396 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 22633 Sep 25 18:29 _parser.py
+-rw-r--r-- 1 petrg 197609  2943 Sep 25 18:29 _re.py
+-rw-r--r-- 1 petrg 197609   254 Sep 25 18:29 _types.py
+-rw-r--r-- 1 petrg 197609    26 Sep 25 18:29 py.typed
+
+./.venv/Lib/site-packages/pip/_vendor/truststore:
+total 69
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   403 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 10461 Sep 25 18:29 _api.py
+-rw-r--r-- 1 petrg 197609 17608 Sep 25 18:29 _macos.py
+-rw-r--r-- 1 petrg 197609  2324 Sep 25 18:29 _openssl.py
+-rw-r--r-- 1 petrg 197609  1130 Sep 25 18:29 _ssl_constants.py
+-rw-r--r-- 1 petrg 197609 17891 Sep 25 18:29 _windows.py
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 py.typed
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3:
+total 181
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  3333 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 11372 Sep 25 18:29 _collections.py
+-rw-r--r-- 1 petrg 197609    64 Sep 25 18:29 _version.py
+-rw-r--r-- 1 petrg 197609 20300 Sep 25 18:29 connection.py
+-rw-r--r-- 1 petrg 197609 40285 Sep 25 18:29 connectionpool.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 contrib
+-rw-r--r-- 1 petrg 197609  8217 Sep 25 18:29 exceptions.py
+-rw-r--r-- 1 petrg 197609  8579 Sep 25 18:29 fields.py
+-rw-r--r-- 1 petrg 197609  2440 Sep 25 18:29 filepost.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 packages
+-rw-r--r-- 1 petrg 197609 19990 Sep 25 18:29 poolmanager.py
+-rw-r--r-- 1 petrg 197609  6691 Sep 25 18:29 request.py
+-rw-r--r-- 1 petrg 197609 30641 Sep 25 18:29 response.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 util
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/contrib:
+total 96
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609   957 Sep 25 18:29 _appengine_environ.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 _securetransport
+-rw-r--r-- 1 petrg 197609 11036 Sep 25 18:29 appengine.py
+-rw-r--r-- 1 petrg 197609  4528 Sep 25 18:29 ntlmpool.py
+-rw-r--r-- 1 petrg 197609 17081 Sep 25 18:29 pyopenssl.py
+-rw-r--r-- 1 petrg 197609 34446 Sep 25 18:29 securetransport.py
+-rw-r--r-- 1 petrg 197609  7097 Sep 25 18:29 socks.py
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport:
+total 40
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 17632 Sep 25 18:29 bindings.py
+-rw-r--r-- 1 petrg 197609 13922 Sep 25 18:29 low_level.py
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/packages:
+total 40
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609     0 Sep 25 18:29 __init__.py
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 backports
+-rw-r--r-- 1 petrg 197609 34665 Sep 25 18:29 six.py
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports:
+total 12
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609    0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609    0 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609 1417 Sep 25 18:29 makefile.py
+-rw-r--r-- 1 petrg 197609 5343 Sep 25 18:29 weakref_finalize.py
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/util:
+total 129
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609  1155 Sep 25 18:29 __init__.py
+-rw-r--r-- 1 petrg 197609  4901 Sep 25 18:29 connection.py
+-rw-r--r-- 1 petrg 197609  1605 Sep 25 18:29 proxy.py
+-rw-r--r-- 1 petrg 197609   498 Sep 25 18:29 queue.py
+-rw-r--r-- 1 petrg 197609  3997 Sep 25 18:29 request.py
+-rw-r--r-- 1 petrg 197609  3510 Sep 25 18:29 response.py
+-rw-r--r-- 1 petrg 197609 22013 Sep 25 18:29 retry.py
+-rw-r--r-- 1 petrg 197609 17177 Sep 25 18:29 ssl_.py
+-rw-r--r-- 1 petrg 197609  5758 Sep 25 18:29 ssl_match_hostname.py
+-rw-r--r-- 1 petrg 197609  6895 Sep 25 18:29 ssltransport.py
+-rw-r--r-- 1 petrg 197609 10168 Sep 25 18:29 timeout.py
+-rw-r--r-- 1 petrg 197609 14296 Sep 25 18:29 url.py
+-rw-r--r-- 1 petrg 197609  5403 Sep 25 18:29 wait.py
+
+./.venv/Lib/site-packages/pip-24.1.2.dist-info:
+total 96
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609     0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609 10669 Sep 25 18:29 AUTHORS.txt
+-rw-r--r-- 1 petrg 197609     5 Sep 25 18:29 INSTALLER
+-rw-r--r-- 1 petrg 197609  1093 Sep 25 18:29 LICENSE.txt
+-rw-r--r-- 1 petrg 197609  3626 Sep 25 18:29 METADATA
+-rw-r--r-- 1 petrg 197609 63011 Sep 25 18:29 RECORD
+-rw-r--r-- 1 petrg 197609    91 Sep 25 18:29 WHEEL
+-rw-r--r-- 1 petrg 197609    87 Sep 25 18:29 entry_points.txt
+-rw-r--r-- 1 petrg 197609     4 Sep 25 18:29 top_level.txt
+
+./.venv/Scripts:
+total 994
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 .
+drwxr-xr-x 1 petrg 197609      0 Sep 25 18:29 ..
+-rw-r--r-- 1 petrg 197609   2298 Sep 25 18:29 activate
+-rw-r--r-- 1 petrg 197609   1108 Sep 25 18:29 activate.bat
+-rw-r--r-- 1 petrg 197609   3128 Sep 25 18:29 activate.fish
+-rw-r--r-- 1 petrg 197609   2813 Sep 25 18:29 activate.nu
+-rw-r--r-- 1 petrg 197609   1654 Sep 25 18:29 activate.ps1
+-rw-r--r-- 1 petrg 197609   1332 Sep 25 18:29 activate_this.py
+-rw-r--r-- 1 petrg 197609    537 Sep 25 18:29 deactivate.bat
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip-3.12.exe
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip.exe
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip3.12.exe
+-rwxr-xr-x 1 petrg 197609 108468 Sep 25 18:29 pip3.exe
+-rw-r--r-- 1 petrg 197609     24 Sep 25 18:29 pydoc.bat
+-rwxr-xr-x 1 petrg 197609 274712 Sep 25 18:29 python.exe
+-rwxr-xr-x 1 petrg 197609 263448 Sep 25 18:29 pythonw.exe
+
+./backup:
+total 5
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 20:32 ..
+-rw-r--r-- 1 petrg 197609 544 Sep 25 19:54 main.bck
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 python_files
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:56 txt_files
+
+./backup/python_files:
+total 2
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 ..
+-rw-r--r-- 1 petrg 197609 544 Sep 25 19:55 main.py
+-rw-r--r-- 1 petrg 197609 544 Sep 25 19:55 main_new.py
+
+./backup/txt_files:
+total 5
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:56 .
+drwxr-xr-x 1 petrg 197609   0 Sep 25 19:55 ..
+-rw-r--r-- 1 petrg 197609 407 Sep 25 19:56 files.txt
+-rw-r--r-- 1 petrg 197609 919 Sep 25 19:56 scripts.txt
