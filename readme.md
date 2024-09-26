@@ -15,3 +15,6 @@ V rámci projektu jsme testovali následující hypotézy:
 - hypotéza 1
 - hypotéza 2
 - hypotéza 3
+
+## Nějaká další záležitost
+blabla
